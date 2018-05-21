@@ -1,0 +1,12 @@
+{
+  "name": "spotify-controller",
+  "version": "0.0.1-dev",
+  "description": "Simple todo application.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "express": "~4.7.2",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
